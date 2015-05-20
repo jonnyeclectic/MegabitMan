@@ -1,0 +1,10 @@
+--TEAM TWO THIRDS PRESENTS..
+--MEGABIT MAN
+--BY:
+--DILLON MURRAY
+--JONATHAN REYES
+--RYAN LEVERENZ
+
+function love.shrink(x, y)
+
+end
